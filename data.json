@@ -1,0 +1,2129 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJvQ69Qrm1aZYRFvgl-HHHZ6M",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJqxWaIre1aZYRy1-DKrqucok",
+      "types": [
+        "establishment",
+        "point_of_interest"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJqxWaIre1aZYRy1-DKrqucok",
+      "types": [
+        "establishment",
+        "point_of_interest"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJDV9knce1aZYRaaQRovTcelE",
+      "types": [
+        "establishment",
+        "point_of_interest"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJG5mNatm1aZYR5eVxw36E2XY",
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "south": -36.83258,
+        "west": -73.06484,
+        "north": -36.81049,
+        "east": -73.05006
+      },
+      "copyrights": "Map data ©2021",
+      "legs": [
+        {
+          "distance": {
+            "text": "1.3 km",
+            "value": 1280
+          },
+          "duration": {
+            "text": "5 min",
+            "value": 328
+          },
+          "end_address": "Tucapel 1349, Concepción, Bío Bío, Chile",
+          "end_location": {
+            "lat": -36.816144,
+            "lng": -73.05161919999999
+          },
+          "start_address": "Castellón 1920, Concepción, Bío Bío, Chile",
+          "start_location": {
+            "lat": -36.8104871,
+            "lng": -73.056968
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 132
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 39
+              },
+              "end_location": {
+                "lat": -36.8114709,
+                "lng": -73.0562269
+              },
+              "polyline": {
+                "points": "ppt_F`}{|LVOp@_@`Ag@HE^UDCBA@C@C?A?A?C?C?E"
+              },
+              "start_location": {
+                "lat": -36.8104871,
+                "lng": -73.056968
+              },
+              "travel_mode": "DRIVING",
+              "encoded_lat_lngs": "ppt_F`}{|LVOp@_@`Ag@HE^UDCBA@C@C?A?A?C?C?E",
+              "path": [
+                {
+                  "lat": -36.81049,
+                  "lng": -73.05697
+                },
+                {
+                  "lat": -36.810610000000004,
+                  "lng": -73.05689000000001
+                },
+                {
+                  "lat": -36.810860000000005,
+                  "lng": -73.05673
+                },
+                {
+                  "lat": -36.81119,
+                  "lng": -73.05653000000001
+                },
+                {
+                  "lat": -36.811240000000005,
+                  "lng": -73.0565
+                },
+                {
+                  "lat": -36.811400000000006,
+                  "lng": -73.05639000000001
+                },
+                {
+                  "lat": -36.81143,
+                  "lng": -73.05637
+                },
+                {
+                  "lat": -36.81145,
+                  "lng": -73.05636000000001
+                },
+                {
+                  "lat": -36.811460000000004,
+                  "lng": -73.05634
+                },
+                {
+                  "lat": -36.81147,
+                  "lng": -73.05632
+                },
+                {
+                  "lat": -36.81147,
+                  "lng": -73.05631000000001
+                },
+                {
+                  "lat": -36.81147,
+                  "lng": -73.05630000000001
+                },
+                {
+                  "lat": -36.81147,
+                  "lng": -73.05628
+                },
+                {
+                  "lat": -36.81147,
+                  "lng": -73.05626000000001
+                },
+                {
+                  "lat": -36.81147,
+                  "lng": -73.05623
+                }
+              ],
+              "lat_lngs": [
+                {
+                  "lat": -36.81049,
+                  "lng": -73.05697
+                },
+                {
+                  "lat": -36.810610000000004,
+                  "lng": -73.05689000000001
+                },
+                {
+                  "lat": -36.810860000000005,
+                  "lng": -73.05673
+                },
+                {
+                  "lat": -36.81119,
+                  "lng": -73.05653000000001
+                },
+                {
+                  "lat": -36.811240000000005,
+                  "lng": -73.0565
+                },
+                {
+                  "lat": -36.811400000000006,
+                  "lng": -73.05639000000001
+                },
+                {
+                  "lat": -36.81143,
+                  "lng": -73.05637
+                },
+                {
+                  "lat": -36.81145,
+                  "lng": -73.05636000000001
+                },
+                {
+                  "lat": -36.811460000000004,
+                  "lng": -73.05634
+                },
+                {
+                  "lat": -36.81147,
+                  "lng": -73.05632
+                },
+                {
+                  "lat": -36.81147,
+                  "lng": -73.05631000000001
+                },
+                {
+                  "lat": -36.81147,
+                  "lng": -73.05630000000001
+                },
+                {
+                  "lat": -36.81147,
+                  "lng": -73.05628
+                },
+                {
+                  "lat": -36.81147,
+                  "lng": -73.05626000000001
+                },
+                {
+                  "lat": -36.81147,
+                  "lng": -73.05623
+                }
+              ],
+              "instructions": "Dirígete al <b>sureste</b> por <b>Castellón</b> hacia <b>El Conquistador</b>.",
+              "maneuver": "",
+              "start_point": {
+                "lat": -36.8104871,
+                "lng": -73.056968
+              },
+              "end_point": {
+                "lat": -36.8114709,
+                "lng": -73.0562269
+              }
+            },
+            {
+              "distance": {
+                "text": "46 m",
+                "value": 46
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 15
+              },
+              "end_location": {
+                "lat": -36.8118407,
+                "lng": -73.0559861
+              },
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "tvt_Flx{|LhAo@"
+              },
+              "start_location": {
+                "lat": -36.8114709,
+                "lng": -73.0562269
+              },
+              "travel_mode": "DRIVING",
+              "encoded_lat_lngs": "tvt_Flx{|LhAo@",
+              "path": [
+                {
+                  "lat": -36.81147,
+                  "lng": -73.05623
+                },
+                {
+                  "lat": -36.811840000000004,
+                  "lng": -73.05599000000001
+                }
+              ],
+              "lat_lngs": [
+                {
+                  "lat": -36.81147,
+                  "lng": -73.05623
+                },
+                {
+                  "lat": -36.811840000000004,
+                  "lng": -73.05599000000001
+                }
+              ],
+              "instructions": "Gira a la <b>derecha</b> para continuar en <b>Castellón</b>",
+              "start_point": {
+                "lat": -36.8114709,
+                "lng": -73.0562269
+              },
+              "end_point": {
+                "lat": -36.8118407,
+                "lng": -73.0559861
+              }
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 252
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 68
+              },
+              "end_location": {
+                "lat": -36.8107903,
+                "lng": -73.05348099999999
+              },
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "~xt_F|v{|Lu@_Cq@{By@eCo@sB"
+              },
+              "start_location": {
+                "lat": -36.8118407,
+                "lng": -73.0559861
+              },
+              "travel_mode": "DRIVING",
+              "encoded_lat_lngs": "~xt_F|v{|Lu@_Cq@{By@eCo@sB",
+              "path": [
+                {
+                  "lat": -36.811840000000004,
+                  "lng": -73.05599000000001
+                },
+                {
+                  "lat": -36.81157,
+                  "lng": -73.05535
+                },
+                {
+                  "lat": -36.81132,
+                  "lng": -73.05473
+                },
+                {
+                  "lat": -36.81103,
+                  "lng": -73.05406
+                },
+                {
+                  "lat": -36.810790000000004,
+                  "lng": -73.05348000000001
+                }
+              ],
+              "lat_lngs": [
+                {
+                  "lat": -36.811840000000004,
+                  "lng": -73.05599000000001
+                },
+                {
+                  "lat": -36.81157,
+                  "lng": -73.05535
+                },
+                {
+                  "lat": -36.81132,
+                  "lng": -73.05473
+                },
+                {
+                  "lat": -36.81103,
+                  "lng": -73.05406
+                },
+                {
+                  "lat": -36.810790000000004,
+                  "lng": -73.05348000000001
+                }
+              ],
+              "instructions": "Gira a la <b>izquierda</b> en la 1ª intersección hacia <b>Ejército</b>.",
+              "start_point": {
+                "lat": -36.8118407,
+                "lng": -73.0559861
+              },
+              "end_point": {
+                "lat": -36.8107903,
+                "lng": -73.05348099999999
+              }
+            },
+            {
+              "distance": {
+                "text": "0.7 km",
+                "value": 666
+              },
+              "duration": {
+                "text": "2 min",
+                "value": 142
+              },
+              "end_location": {
+                "lat": -36.8161108,
+                "lng": -73.0500551
+              },
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "lrt_Ffg{|LbC{AnAs@rC}At@a@p@SPKPKxBmAp@c@lBoA^Wl@[jEyB"
+              },
+              "start_location": {
+                "lat": -36.8107903,
+                "lng": -73.05348099999999
+              },
+              "travel_mode": "DRIVING",
+              "encoded_lat_lngs": "lrt_Ffg{|LbC{AnAs@rC}At@a@p@SPKPKxBmAp@c@lBoA^Wl@[jEyB",
+              "path": [
+                {
+                  "lat": -36.810790000000004,
+                  "lng": -73.05348000000001
+                },
+                {
+                  "lat": -36.81145,
+                  "lng": -73.05302
+                },
+                {
+                  "lat": -36.81185,
+                  "lng": -73.05276
+                },
+                {
+                  "lat": -36.81259,
+                  "lng": -73.05229
+                },
+                {
+                  "lat": -36.81286,
+                  "lng": -73.05212
+                },
+                {
+                  "lat": -36.81311,
+                  "lng": -73.05202000000001
+                },
+                {
+                  "lat": -36.8132,
+                  "lng": -73.05196000000001
+                },
+                {
+                  "lat": -36.81329,
+                  "lng": -73.0519
+                },
+                {
+                  "lat": -36.813900000000004,
+                  "lng": -73.05151000000001
+                },
+                {
+                  "lat": -36.814150000000005,
+                  "lng": -73.05133000000001
+                },
+                {
+                  "lat": -36.8147,
+                  "lng": -73.05093000000001
+                },
+                {
+                  "lat": -36.81486,
+                  "lng": -73.05081000000001
+                },
+                {
+                  "lat": -36.815090000000005,
+                  "lng": -73.05067000000001
+                },
+                {
+                  "lat": -36.81611,
+                  "lng": -73.05006
+                }
+              ],
+              "lat_lngs": [
+                {
+                  "lat": -36.810790000000004,
+                  "lng": -73.05348000000001
+                },
+                {
+                  "lat": -36.81145,
+                  "lng": -73.05302
+                },
+                {
+                  "lat": -36.81185,
+                  "lng": -73.05276
+                },
+                {
+                  "lat": -36.81259,
+                  "lng": -73.05229
+                },
+                {
+                  "lat": -36.81286,
+                  "lng": -73.05212
+                },
+                {
+                  "lat": -36.81311,
+                  "lng": -73.05202000000001
+                },
+                {
+                  "lat": -36.8132,
+                  "lng": -73.05196000000001
+                },
+                {
+                  "lat": -36.81329,
+                  "lng": -73.0519
+                },
+                {
+                  "lat": -36.813900000000004,
+                  "lng": -73.05151000000001
+                },
+                {
+                  "lat": -36.814150000000005,
+                  "lng": -73.05133000000001
+                },
+                {
+                  "lat": -36.8147,
+                  "lng": -73.05093000000001
+                },
+                {
+                  "lat": -36.81486,
+                  "lng": -73.05081000000001
+                },
+                {
+                  "lat": -36.815090000000005,
+                  "lng": -73.05067000000001
+                },
+                {
+                  "lat": -36.81611,
+                  "lng": -73.05006
+                }
+              ],
+              "instructions": "Gira a la <b>derecha</b> con dirección a <b>Orompello</b>",
+              "start_point": {
+                "lat": -36.8107903,
+                "lng": -73.05348099999999
+              },
+              "end_point": {
+                "lat": -36.8161108,
+                "lng": -73.0500551
+              }
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 127
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 50
+              },
+              "end_location": {
+                "lat": -36.8166082,
+                "lng": -73.051339
+              },
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "tsu_Fzqz|Lj@bBv@zC"
+              },
+              "start_location": {
+                "lat": -36.8161108,
+                "lng": -73.0500551
+              },
+              "travel_mode": "DRIVING",
+              "encoded_lat_lngs": "tsu_Fzqz|Lj@bBv@zC",
+              "path": [
+                {
+                  "lat": -36.81611,
+                  "lng": -73.05006
+                },
+                {
+                  "lat": -36.81633,
+                  "lng": -73.05056
+                },
+                {
+                  "lat": -36.816610000000004,
+                  "lng": -73.05134000000001
+                }
+              ],
+              "lat_lngs": [
+                {
+                  "lat": -36.81611,
+                  "lng": -73.05006
+                },
+                {
+                  "lat": -36.81633,
+                  "lng": -73.05056
+                },
+                {
+                  "lat": -36.816610000000004,
+                  "lng": -73.05134000000001
+                }
+              ],
+              "instructions": "Gira a la <b>derecha</b> con dirección a <b>Joaquín Prieto</b>",
+              "start_point": {
+                "lat": -36.8161108,
+                "lng": -73.0500551
+              },
+              "end_point": {
+                "lat": -36.8166082,
+                "lng": -73.051339
+              }
+            },
+            {
+              "distance": {
+                "text": "57 m",
+                "value": 57
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 14
+              },
+              "end_location": {
+                "lat": -36.816144,
+                "lng": -73.05161919999999
+              },
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "xvu_Fzyz|L}Av@"
+              },
+              "start_location": {
+                "lat": -36.8166082,
+                "lng": -73.051339
+              },
+              "travel_mode": "DRIVING",
+              "encoded_lat_lngs": "xvu_Fzyz|L}Av@",
+              "path": [
+                {
+                  "lat": -36.816610000000004,
+                  "lng": -73.05134000000001
+                },
+                {
+                  "lat": -36.816140000000004,
+                  "lng": -73.05162
+                }
+              ],
+              "lat_lngs": [
+                {
+                  "lat": -36.816610000000004,
+                  "lng": -73.05134000000001
+                },
+                {
+                  "lat": -36.816140000000004,
+                  "lng": -73.05162
+                }
+              ],
+              "instructions": "Gira a la <b>derecha</b> con dirección a <b>Tucapel</b><div style=\"font-size:0.9em\">El destino está a la derecha.</div>",
+              "start_point": {
+                "lat": -36.8166082,
+                "lng": -73.051339
+              },
+              "end_point": {
+                "lat": -36.816144,
+                "lng": -73.05161919999999
+              }
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": [],
+          "via_waypoints": []
+        },
+        {
+          "distance": {
+            "text": "3 m",
+            "value": 3
+          },
+          "duration": {
+            "text": "1 min",
+            "value": 1
+          },
+          "end_address": "Tucapel 1349, Concepción, Bío Bío, Chile",
+          "end_location": {
+            "lat": -36.8161163,
+            "lng": -73.0516359
+          },
+          "start_address": "Tucapel 1349, Concepción, Bío Bío, Chile",
+          "start_location": {
+            "lat": -36.816144,
+            "lng": -73.05161919999999
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "3 m",
+                "value": 3
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 1
+              },
+              "end_location": {
+                "lat": -36.8161163,
+                "lng": -73.0516359
+              },
+              "polyline": {
+                "points": "zsu_Fr{z|LCB"
+              },
+              "start_location": {
+                "lat": -36.816144,
+                "lng": -73.05161919999999
+              },
+              "travel_mode": "DRIVING",
+              "encoded_lat_lngs": "zsu_Fr{z|LCB",
+              "path": [
+                {
+                  "lat": -36.816140000000004,
+                  "lng": -73.05162
+                },
+                {
+                  "lat": -36.816120000000005,
+                  "lng": -73.05164
+                }
+              ],
+              "lat_lngs": [
+                {
+                  "lat": -36.816140000000004,
+                  "lng": -73.05162
+                },
+                {
+                  "lat": -36.816120000000005,
+                  "lng": -73.05164
+                }
+              ],
+              "instructions": "Dirígete al <b>noroeste</b> por <b>Tucapel</b> hacia <b>Fierro</b>.",
+              "maneuver": "",
+              "start_point": {
+                "lat": -36.816144,
+                "lng": -73.05161919999999
+              },
+              "end_point": {
+                "lat": -36.8161163,
+                "lng": -73.0516359
+              }
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": [],
+          "via_waypoints": []
+        },
+        {
+          "distance": {
+            "text": "0.5 km",
+            "value": 466
+          },
+          "duration": {
+            "text": "2 min",
+            "value": 91
+          },
+          "end_address": "Bandera 810, Concepción, Bío Bío, Chile",
+          "end_location": {
+            "lat": -36.8155144,
+            "lng": -73.05526379999999
+          },
+          "start_address": "Tucapel 1349, Concepción, Bío Bío, Chile",
+          "start_location": {
+            "lat": -36.8161163,
+            "lng": -73.0516359
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "62 m",
+                "value": 62
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 12
+              },
+              "end_location": {
+                "lat": -36.81561689999999,
+                "lng": -73.0519335
+              },
+              "polyline": {
+                "points": "vsu_Fv{z|LcBx@"
+              },
+              "start_location": {
+                "lat": -36.8161163,
+                "lng": -73.0516359
+              },
+              "travel_mode": "DRIVING",
+              "encoded_lat_lngs": "vsu_Fv{z|LcBx@",
+              "path": [
+                {
+                  "lat": -36.816120000000005,
+                  "lng": -73.05164
+                },
+                {
+                  "lat": -36.81562,
+                  "lng": -73.05193000000001
+                }
+              ],
+              "lat_lngs": [
+                {
+                  "lat": -36.816120000000005,
+                  "lng": -73.05164
+                },
+                {
+                  "lat": -36.81562,
+                  "lng": -73.05193000000001
+                }
+              ],
+              "instructions": "Dirígete al <b>noroeste</b> por <b>Tucapel</b> hacia <b>Av. Manuel Rodríguez</b>.",
+              "maneuver": "",
+              "start_point": {
+                "lat": -36.8161163,
+                "lng": -73.0516359
+              },
+              "end_point": {
+                "lat": -36.81561689999999,
+                "lng": -73.0519335
+              }
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 283
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 42
+              },
+              "end_location": {
+                "lat": -36.8164542,
+                "lng": -73.0545863
+              },
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "rpu_Fp}z|Lo@XhBxFf@~AbA~C"
+              },
+              "start_location": {
+                "lat": -36.81561689999999,
+                "lng": -73.0519335
+              },
+              "travel_mode": "DRIVING",
+              "encoded_lat_lngs": "rpu_Fp}z|Lo@XhBxFf@~AbA~C",
+              "path": [
+                {
+                  "lat": -36.81562,
+                  "lng": -73.05193000000001
+                },
+                {
+                  "lat": -36.815380000000005,
+                  "lng": -73.05206000000001
+                },
+                {
+                  "lat": -36.81591,
+                  "lng": -73.05331000000001
+                },
+                {
+                  "lat": -36.81611,
+                  "lng": -73.05379
+                },
+                {
+                  "lat": -36.81645,
+                  "lng": -73.05459
+                }
+              ],
+              "lat_lngs": [
+                {
+                  "lat": -36.81562,
+                  "lng": -73.05193000000001
+                },
+                {
+                  "lat": -36.815380000000005,
+                  "lng": -73.05206000000001
+                },
+                {
+                  "lat": -36.81591,
+                  "lng": -73.05331000000001
+                },
+                {
+                  "lat": -36.81611,
+                  "lng": -73.05379
+                },
+                {
+                  "lat": -36.81645,
+                  "lng": -73.05459
+                }
+              ],
+              "instructions": "Gira a la <b>izquierda</b> en la 1ª intersección hacia <b>Av. Manuel Rodríguez</b>.",
+              "start_point": {
+                "lat": -36.81561689999999,
+                "lng": -73.0519335
+              },
+              "end_point": {
+                "lat": -36.8164542,
+                "lng": -73.0545863
+              }
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 121
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 37
+              },
+              "end_location": {
+                "lat": -36.8155144,
+                "lng": -73.05526379999999
+              },
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "xuu_Fdn{|LcBlAwAv@"
+              },
+              "start_location": {
+                "lat": -36.8164542,
+                "lng": -73.0545863
+              },
+              "travel_mode": "DRIVING",
+              "encoded_lat_lngs": "xuu_Fdn{|LcBlAwAv@",
+              "path": [
+                {
+                  "lat": -36.81645,
+                  "lng": -73.05459
+                },
+                {
+                  "lat": -36.81595,
+                  "lng": -73.05498
+                },
+                {
+                  "lat": -36.81551,
+                  "lng": -73.05526
+                }
+              ],
+              "lat_lngs": [
+                {
+                  "lat": -36.81645,
+                  "lng": -73.05459
+                },
+                {
+                  "lat": -36.81595,
+                  "lng": -73.05498
+                },
+                {
+                  "lat": -36.81551,
+                  "lng": -73.05526
+                }
+              ],
+              "instructions": "Gira a la <b>derecha</b> en la 2ª intersección hacia <b>Colo Colo</b>.<div style=\"font-size:0.9em\">El destino está a la derecha.</div>",
+              "start_point": {
+                "lat": -36.8164542,
+                "lng": -73.0545863
+              },
+              "end_point": {
+                "lat": -36.8155144,
+                "lng": -73.05526379999999
+              }
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": [],
+          "via_waypoints": []
+        },
+        {
+          "distance": {
+            "text": "2.8 km",
+            "value": 2806
+          },
+          "duration": {
+            "text": "7 min",
+            "value": 399
+          },
+          "end_address": "San Martín 42, Concepción, • Región del Bío Bío,VIII Región,Bío Bío,VIII Región del Bío Bío,8 Región,CL-BI,Bio, Chile",
+          "end_location": {
+            "lat": -36.831692,
+            "lng": -73.0566985
+          },
+          "start_address": "Bandera 810, Concepción, Bío Bío, Chile",
+          "start_location": {
+            "lat": -36.8155144,
+            "lng": -73.05526379999999
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 121
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 33
+              },
+              "end_location": {
+                "lat": -36.8164542,
+                "lng": -73.0545863
+              },
+              "polyline": {
+                "points": "|ou_Fjr{|LvAw@bBmA"
+              },
+              "start_location": {
+                "lat": -36.8155144,
+                "lng": -73.05526379999999
+              },
+              "travel_mode": "DRIVING",
+              "encoded_lat_lngs": "|ou_Fjr{|LvAw@bBmA",
+              "path": [
+                {
+                  "lat": -36.81551,
+                  "lng": -73.05526
+                },
+                {
+                  "lat": -36.81595,
+                  "lng": -73.05498
+                },
+                {
+                  "lat": -36.81645,
+                  "lng": -73.05459
+                }
+              ],
+              "lat_lngs": [
+                {
+                  "lat": -36.81551,
+                  "lng": -73.05526
+                },
+                {
+                  "lat": -36.81595,
+                  "lng": -73.05498
+                },
+                {
+                  "lat": -36.81645,
+                  "lng": -73.05459
+                }
+              ],
+              "instructions": "Dirígete al <b>sureste</b> por <b>Colo Colo</b> hacia <b>Pje. Radiun</b>.",
+              "maneuver": "",
+              "start_point": {
+                "lat": -36.8155144,
+                "lng": -73.05526379999999
+              },
+              "end_point": {
+                "lat": -36.8164542,
+                "lng": -73.0545863
+              }
+            },
+            {
+              "distance": {
+                "text": "1.0 km",
+                "value": 959
+              },
+              "duration": {
+                "text": "3 min",
+                "value": 151
+              },
+              "end_location": {
+                "lat": -36.8204319,
+                "lng": -73.0641492
+              },
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "xuu_Fdn{|LhB~Fv@hCp@nBzA|EJXhBxFdB`G\\`AjAtDtAhE`@vAl@nB"
+              },
+              "start_location": {
+                "lat": -36.8164542,
+                "lng": -73.0545863
+              },
+              "travel_mode": "DRIVING",
+              "encoded_lat_lngs": "xuu_Fdn{|LhB~Fv@hCp@nBzA|EJXhBxFdB`G\\`AjAtDtAhE`@vAl@nB",
+              "path": [
+                {
+                  "lat": -36.81645,
+                  "lng": -73.05459
+                },
+                {
+                  "lat": -36.81698,
+                  "lng": -73.05587000000001
+                },
+                {
+                  "lat": -36.817260000000005,
+                  "lng": -73.05656
+                },
+                {
+                  "lat": -36.817510000000006,
+                  "lng": -73.05712000000001
+                },
+                {
+                  "lat": -36.81797,
+                  "lng": -73.05823000000001
+                },
+                {
+                  "lat": -36.81803,
+                  "lng": -73.05836000000001
+                },
+                {
+                  "lat": -36.818560000000005,
+                  "lng": -73.05961
+                },
+                {
+                  "lat": -36.81907,
+                  "lng": -73.0609
+                },
+                {
+                  "lat": -36.81922,
+                  "lng": -73.06123000000001
+                },
+                {
+                  "lat": -36.8196,
+                  "lng": -73.06214
+                },
+                {
+                  "lat": -36.82003,
+                  "lng": -73.06315000000001
+                },
+                {
+                  "lat": -36.8202,
+                  "lng": -73.06359
+                },
+                {
+                  "lat": -36.82043,
+                  "lng": -73.06415000000001
+                }
+              ],
+              "lat_lngs": [
+                {
+                  "lat": -36.81645,
+                  "lng": -73.05459
+                },
+                {
+                  "lat": -36.81698,
+                  "lng": -73.05587000000001
+                },
+                {
+                  "lat": -36.817260000000005,
+                  "lng": -73.05656
+                },
+                {
+                  "lat": -36.817510000000006,
+                  "lng": -73.05712000000001
+                },
+                {
+                  "lat": -36.81797,
+                  "lng": -73.05823000000001
+                },
+                {
+                  "lat": -36.81803,
+                  "lng": -73.05836000000001
+                },
+                {
+                  "lat": -36.818560000000005,
+                  "lng": -73.05961
+                },
+                {
+                  "lat": -36.81907,
+                  "lng": -73.0609
+                },
+                {
+                  "lat": -36.81922,
+                  "lng": -73.06123000000001
+                },
+                {
+                  "lat": -36.8196,
+                  "lng": -73.06214
+                },
+                {
+                  "lat": -36.82003,
+                  "lng": -73.06315000000001
+                },
+                {
+                  "lat": -36.8202,
+                  "lng": -73.06359
+                },
+                {
+                  "lat": -36.82043,
+                  "lng": -73.06415000000001
+                }
+              ],
+              "instructions": "Gira a la <b>derecha</b> con dirección a <b>Av. Manuel Rodríguez</b>",
+              "start_point": {
+                "lat": -36.8164542,
+                "lng": -73.0545863
+              },
+              "end_point": {
+                "lat": -36.8204319,
+                "lng": -73.0641492
+              }
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 204
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 17
+              },
+              "end_location": {
+                "lat": -36.8220715,
+                "lng": -73.0647828
+              },
+              "polyline": {
+                "points": "tnv_F|i}|LLZPXLLJJTJ^NPHVFRDN@PBR?R?n@AJALCDC"
+              },
+              "start_location": {
+                "lat": -36.8204319,
+                "lng": -73.0641492
+              },
+              "travel_mode": "DRIVING",
+              "encoded_lat_lngs": "tnv_F|i}|LLZPXLLJJTJ^NPHVFRDN@PBR?R?n@AJALCDC",
+              "path": [
+                {
+                  "lat": -36.82043,
+                  "lng": -73.06415000000001
+                },
+                {
+                  "lat": -36.8205,
+                  "lng": -73.06429
+                },
+                {
+                  "lat": -36.82059,
+                  "lng": -73.06442000000001
+                },
+                {
+                  "lat": -36.820660000000004,
+                  "lng": -73.06449
+                },
+                {
+                  "lat": -36.82072,
+                  "lng": -73.06455000000001
+                },
+                {
+                  "lat": -36.82083,
+                  "lng": -73.06461
+                },
+                {
+                  "lat": -36.82099,
+                  "lng": -73.06469000000001
+                },
+                {
+                  "lat": -36.82108,
+                  "lng": -73.06474
+                },
+                {
+                  "lat": -36.821200000000005,
+                  "lng": -73.06478
+                },
+                {
+                  "lat": -36.8213,
+                  "lng": -73.06481000000001
+                },
+                {
+                  "lat": -36.821380000000005,
+                  "lng": -73.06482000000001
+                },
+                {
+                  "lat": -36.821470000000005,
+                  "lng": -73.06484
+                },
+                {
+                  "lat": -36.82157,
+                  "lng": -73.06484
+                },
+                {
+                  "lat": -36.821670000000005,
+                  "lng": -73.06484
+                },
+                {
+                  "lat": -36.82191,
+                  "lng": -73.06483
+                },
+                {
+                  "lat": -36.82197,
+                  "lng": -73.06482000000001
+                },
+                {
+                  "lat": -36.82204,
+                  "lng": -73.0648
+                },
+                {
+                  "lat": -36.822070000000004,
+                  "lng": -73.06478
+                }
+              ],
+              "lat_lngs": [
+                {
+                  "lat": -36.82043,
+                  "lng": -73.06415000000001
+                },
+                {
+                  "lat": -36.8205,
+                  "lng": -73.06429
+                },
+                {
+                  "lat": -36.82059,
+                  "lng": -73.06442000000001
+                },
+                {
+                  "lat": -36.820660000000004,
+                  "lng": -73.06449
+                },
+                {
+                  "lat": -36.82072,
+                  "lng": -73.06455000000001
+                },
+                {
+                  "lat": -36.82083,
+                  "lng": -73.06461
+                },
+                {
+                  "lat": -36.82099,
+                  "lng": -73.06469000000001
+                },
+                {
+                  "lat": -36.82108,
+                  "lng": -73.06474
+                },
+                {
+                  "lat": -36.821200000000005,
+                  "lng": -73.06478
+                },
+                {
+                  "lat": -36.8213,
+                  "lng": -73.06481000000001
+                },
+                {
+                  "lat": -36.821380000000005,
+                  "lng": -73.06482000000001
+                },
+                {
+                  "lat": -36.821470000000005,
+                  "lng": -73.06484
+                },
+                {
+                  "lat": -36.82157,
+                  "lng": -73.06484
+                },
+                {
+                  "lat": -36.821670000000005,
+                  "lng": -73.06484
+                },
+                {
+                  "lat": -36.82191,
+                  "lng": -73.06483
+                },
+                {
+                  "lat": -36.82197,
+                  "lng": -73.06482000000001
+                },
+                {
+                  "lat": -36.82204,
+                  "lng": -73.0648
+                },
+                {
+                  "lat": -36.822070000000004,
+                  "lng": -73.06478
+                }
+              ],
+              "instructions": "Continúa por <b>Empalme A Veintiuno de Mayo</b>",
+              "maneuver": "",
+              "start_point": {
+                "lat": -36.8204319,
+                "lng": -73.0641492
+              },
+              "end_point": {
+                "lat": -36.8220715,
+                "lng": -73.0647828
+              }
+            },
+            {
+              "distance": {
+                "text": "1.3 km",
+                "value": 1298
+              },
+              "duration": {
+                "text": "2 min",
+                "value": 137
+              },
+              "end_location": {
+                "lat": -36.8325755,
+                "lng": -73.0589586
+              },
+              "polyline": {
+                "points": "|xv_Fzm}|LDALILGRMnAq@XQ|@e@dBgAd@QLGNGPEREXGh@EZAd@AzAA\\?t@A`@EZEXGPENEPGZO~Ay@dB_Ab@Wb@WlBeA`FiCFGtA_ATMdIqEVSx@}@~@gA"
+              },
+              "start_location": {
+                "lat": -36.8220715,
+                "lng": -73.0647828
+              },
+              "travel_mode": "DRIVING",
+              "encoded_lat_lngs": "|xv_Fzm}|LDALILGRMnAq@XQ|@e@dBgAd@QLGNGPEREXGh@EZAd@AzAA\\?t@A`@EZEXGPENEPGZO~Ay@dB_Ab@Wb@WlBeA`FiCFGtA_ATMdIqEVSx@}@~@gA",
+              "path": [
+                {
+                  "lat": -36.822070000000004,
+                  "lng": -73.06478
+                },
+                {
+                  "lat": -36.822100000000006,
+                  "lng": -73.06477000000001
+                },
+                {
+                  "lat": -36.82217,
+                  "lng": -73.06472000000001
+                },
+                {
+                  "lat": -36.82224,
+                  "lng": -73.06468000000001
+                },
+                {
+                  "lat": -36.822340000000004,
+                  "lng": -73.06461
+                },
+                {
+                  "lat": -36.82274,
+                  "lng": -73.06436000000001
+                },
+                {
+                  "lat": -36.82287,
+                  "lng": -73.06427000000001
+                },
+                {
+                  "lat": -36.82318,
+                  "lng": -73.06408
+                },
+                {
+                  "lat": -36.823690000000006,
+                  "lng": -73.06372
+                },
+                {
+                  "lat": -36.82388,
+                  "lng": -73.06363
+                },
+                {
+                  "lat": -36.82395,
+                  "lng": -73.06359
+                },
+                {
+                  "lat": -36.82403,
+                  "lng": -73.06355
+                },
+                {
+                  "lat": -36.82412,
+                  "lng": -73.06352000000001
+                },
+                {
+                  "lat": -36.824220000000004,
+                  "lng": -73.06349
+                },
+                {
+                  "lat": -36.82435,
+                  "lng": -73.06345
+                },
+                {
+                  "lat": -36.824560000000005,
+                  "lng": -73.06342000000001
+                },
+                {
+                  "lat": -36.8247,
+                  "lng": -73.06341
+                },
+                {
+                  "lat": -36.82489,
+                  "lng": -73.0634
+                },
+                {
+                  "lat": -36.82535,
+                  "lng": -73.06339000000001
+                },
+                {
+                  "lat": -36.825500000000005,
+                  "lng": -73.06339000000001
+                },
+                {
+                  "lat": -36.825770000000006,
+                  "lng": -73.06338000000001
+                },
+                {
+                  "lat": -36.82594,
+                  "lng": -73.06335
+                },
+                {
+                  "lat": -36.826080000000005,
+                  "lng": -73.06332
+                },
+                {
+                  "lat": -36.82621,
+                  "lng": -73.06328
+                },
+                {
+                  "lat": -36.8263,
+                  "lng": -73.06325000000001
+                },
+                {
+                  "lat": -36.82638,
+                  "lng": -73.06322
+                },
+                {
+                  "lat": -36.82647,
+                  "lng": -73.06318
+                },
+                {
+                  "lat": -36.82661,
+                  "lng": -73.0631
+                },
+                {
+                  "lat": -36.827090000000005,
+                  "lng": -73.06281
+                },
+                {
+                  "lat": -36.827600000000004,
+                  "lng": -73.06249000000001
+                },
+                {
+                  "lat": -36.827780000000004,
+                  "lng": -73.06237
+                },
+                {
+                  "lat": -36.827960000000004,
+                  "lng": -73.06225
+                },
+                {
+                  "lat": -36.82851,
+                  "lng": -73.06190000000001
+                },
+                {
+                  "lat": -36.829640000000005,
+                  "lng": -73.06121
+                },
+                {
+                  "lat": -36.82968,
+                  "lng": -73.06117
+                },
+                {
+                  "lat": -36.830110000000005,
+                  "lng": -73.06085
+                },
+                {
+                  "lat": -36.830220000000004,
+                  "lng": -73.06078000000001
+                },
+                {
+                  "lat": -36.83185,
+                  "lng": -73.05973
+                },
+                {
+                  "lat": -36.831970000000005,
+                  "lng": -73.05963000000001
+                },
+                {
+                  "lat": -36.832260000000005,
+                  "lng": -73.05932
+                },
+                {
+                  "lat": -36.83258,
+                  "lng": -73.05896
+                }
+              ],
+              "lat_lngs": [
+                {
+                  "lat": -36.822070000000004,
+                  "lng": -73.06478
+                },
+                {
+                  "lat": -36.822100000000006,
+                  "lng": -73.06477000000001
+                },
+                {
+                  "lat": -36.82217,
+                  "lng": -73.06472000000001
+                },
+                {
+                  "lat": -36.82224,
+                  "lng": -73.06468000000001
+                },
+                {
+                  "lat": -36.822340000000004,
+                  "lng": -73.06461
+                },
+                {
+                  "lat": -36.82274,
+                  "lng": -73.06436000000001
+                },
+                {
+                  "lat": -36.82287,
+                  "lng": -73.06427000000001
+                },
+                {
+                  "lat": -36.82318,
+                  "lng": -73.06408
+                },
+                {
+                  "lat": -36.823690000000006,
+                  "lng": -73.06372
+                },
+                {
+                  "lat": -36.82388,
+                  "lng": -73.06363
+                },
+                {
+                  "lat": -36.82395,
+                  "lng": -73.06359
+                },
+                {
+                  "lat": -36.82403,
+                  "lng": -73.06355
+                },
+                {
+                  "lat": -36.82412,
+                  "lng": -73.06352000000001
+                },
+                {
+                  "lat": -36.824220000000004,
+                  "lng": -73.06349
+                },
+                {
+                  "lat": -36.82435,
+                  "lng": -73.06345
+                },
+                {
+                  "lat": -36.824560000000005,
+                  "lng": -73.06342000000001
+                },
+                {
+                  "lat": -36.8247,
+                  "lng": -73.06341
+                },
+                {
+                  "lat": -36.82489,
+                  "lng": -73.0634
+                },
+                {
+                  "lat": -36.82535,
+                  "lng": -73.06339000000001
+                },
+                {
+                  "lat": -36.825500000000005,
+                  "lng": -73.06339000000001
+                },
+                {
+                  "lat": -36.825770000000006,
+                  "lng": -73.06338000000001
+                },
+                {
+                  "lat": -36.82594,
+                  "lng": -73.06335
+                },
+                {
+                  "lat": -36.826080000000005,
+                  "lng": -73.06332
+                },
+                {
+                  "lat": -36.82621,
+                  "lng": -73.06328
+                },
+                {
+                  "lat": -36.8263,
+                  "lng": -73.06325000000001
+                },
+                {
+                  "lat": -36.82638,
+                  "lng": -73.06322
+                },
+                {
+                  "lat": -36.82647,
+                  "lng": -73.06318
+                },
+                {
+                  "lat": -36.82661,
+                  "lng": -73.0631
+                },
+                {
+                  "lat": -36.827090000000005,
+                  "lng": -73.06281
+                },
+                {
+                  "lat": -36.827600000000004,
+                  "lng": -73.06249000000001
+                },
+                {
+                  "lat": -36.827780000000004,
+                  "lng": -73.06237
+                },
+                {
+                  "lat": -36.827960000000004,
+                  "lng": -73.06225
+                },
+                {
+                  "lat": -36.82851,
+                  "lng": -73.06190000000001
+                },
+                {
+                  "lat": -36.829640000000005,
+                  "lng": -73.06121
+                },
+                {
+                  "lat": -36.82968,
+                  "lng": -73.06117
+                },
+                {
+                  "lat": -36.830110000000005,
+                  "lng": -73.06085
+                },
+                {
+                  "lat": -36.830220000000004,
+                  "lng": -73.06078000000001
+                },
+                {
+                  "lat": -36.83185,
+                  "lng": -73.05973
+                },
+                {
+                  "lat": -36.831970000000005,
+                  "lng": -73.05963000000001
+                },
+                {
+                  "lat": -36.832260000000005,
+                  "lng": -73.05932
+                },
+                {
+                  "lat": -36.83258,
+                  "lng": -73.05896
+                }
+              ],
+              "instructions": "Continúa por <b>Av. Padre Alberto Hurtado</b>",
+              "maneuver": "",
+              "start_point": {
+                "lat": -36.8220715,
+                "lng": -73.0647828
+              },
+              "end_point": {
+                "lat": -36.8325755,
+                "lng": -73.0589586
+              }
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 224
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 61
+              },
+              "end_location": {
+                "lat": -36.831692,
+                "lng": -73.0566985
+              },
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "rzx_Fni||Lc@{A[iAOg@Mg@Me@GQEOOg@Qg@Og@EM"
+              },
+              "start_location": {
+                "lat": -36.8325755,
+                "lng": -73.0589586
+              },
+              "travel_mode": "DRIVING",
+              "encoded_lat_lngs": "rzx_Fni||Lc@{A[iAOg@Mg@Me@GQEOOg@Qg@Og@EM",
+              "path": [
+                {
+                  "lat": -36.83258,
+                  "lng": -73.05896
+                },
+                {
+                  "lat": -36.8324,
+                  "lng": -73.05850000000001
+                },
+                {
+                  "lat": -36.832260000000005,
+                  "lng": -73.05813
+                },
+                {
+                  "lat": -36.83218,
+                  "lng": -73.05793
+                },
+                {
+                  "lat": -36.83211,
+                  "lng": -73.05773
+                },
+                {
+                  "lat": -36.832040000000006,
+                  "lng": -73.05754
+                },
+                {
+                  "lat": -36.832,
+                  "lng": -73.05745
+                },
+                {
+                  "lat": -36.831970000000005,
+                  "lng": -73.05737
+                },
+                {
+                  "lat": -36.83189,
+                  "lng": -73.05717
+                },
+                {
+                  "lat": -36.8318,
+                  "lng": -73.05697
+                },
+                {
+                  "lat": -36.831720000000004,
+                  "lng": -73.05677
+                },
+                {
+                  "lat": -36.83169,
+                  "lng": -73.0567
+                }
+              ],
+              "lat_lngs": [
+                {
+                  "lat": -36.83258,
+                  "lng": -73.05896
+                },
+                {
+                  "lat": -36.8324,
+                  "lng": -73.05850000000001
+                },
+                {
+                  "lat": -36.832260000000005,
+                  "lng": -73.05813
+                },
+                {
+                  "lat": -36.83218,
+                  "lng": -73.05793
+                },
+                {
+                  "lat": -36.83211,
+                  "lng": -73.05773
+                },
+                {
+                  "lat": -36.832040000000006,
+                  "lng": -73.05754
+                },
+                {
+                  "lat": -36.832,
+                  "lng": -73.05745
+                },
+                {
+                  "lat": -36.831970000000005,
+                  "lng": -73.05737
+                },
+                {
+                  "lat": -36.83189,
+                  "lng": -73.05717
+                },
+                {
+                  "lat": -36.8318,
+                  "lng": -73.05697
+                },
+                {
+                  "lat": -36.831720000000004,
+                  "lng": -73.05677
+                },
+                {
+                  "lat": -36.83169,
+                  "lng": -73.0567
+                }
+              ],
+              "instructions": "Gira a la <b>izquierda</b> con dirección a <b>San Martín</b><div style=\"font-size:0.9em\">El destino está a la derecha.</div>",
+              "start_point": {
+                "lat": -36.8325755,
+                "lng": -73.0589586
+              },
+              "end_point": {
+                "lat": -36.831692,
+                "lng": -73.0566985
+              }
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": [],
+          "via_waypoints": []
+        }
+      ],
+      "overview_polyline": "ppt_F`}{|LtC}Aj@_@@K?IhAo@u@_CkBaGo@sBbC{AbFqCt@a@p@Sb@WjDqBlCgBxFuCj@bBv@zCaBz@sCrApCxIbA~CcBlAwAv@vAw@bBmAhB~FhBxFfBvFnEzNhBvFvB`Hz@jC^f@`@Vp@Xj@L`@DbBCRGRKjCyAbDmBr@Y`@Ml@MdAG`CCrAA|@KlA[dGaDzJoFjBmAdIqEVSxBeC_AeDs@gC}@uC",
+      "summary": "Orompello",
+      "warnings": [],
+      "waypoint_order": [
+        0,
+        1,
+        2
+      ],
+      "overview_path": [
+        {
+          "lat": -36.81049,
+          "lng": -73.05697
+        },
+        {
+          "lat": -36.811240000000005,
+          "lng": -73.0565
+        },
+        {
+          "lat": -36.811460000000004,
+          "lng": -73.05634
+        },
+        {
+          "lat": -36.81147,
+          "lng": -73.05628
+        },
+        {
+          "lat": -36.81147,
+          "lng": -73.05623
+        },
+        {
+          "lat": -36.811840000000004,
+          "lng": -73.05599000000001
+        },
+        {
+          "lat": -36.81157,
+          "lng": -73.05535
+        },
+        {
+          "lat": -36.81103,
+          "lng": -73.05406
+        },
+        {
+          "lat": -36.810790000000004,
+          "lng": -73.05348000000001
+        },
+        {
+          "lat": -36.81145,
+          "lng": -73.05302
+        },
+        {
+          "lat": -36.81259,
+          "lng": -73.05229
+        },
+        {
+          "lat": -36.81286,
+          "lng": -73.05212
+        },
+        {
+          "lat": -36.81311,
+          "lng": -73.05202000000001
+        },
+        {
+          "lat": -36.81329,
+          "lng": -73.0519
+        },
+        {
+          "lat": -36.814150000000005,
+          "lng": -73.05133000000001
+        },
+        {
+          "lat": -36.81486,
+          "lng": -73.05081000000001
+        },
+        {
+          "lat": -36.81611,
+          "lng": -73.05006
+        },
+        {
+          "lat": -36.81633,
+          "lng": -73.05056
+        },
+        {
+          "lat": -36.816610000000004,
+          "lng": -73.05134000000001
+        },
+        {
+          "lat": -36.816120000000005,
+          "lng": -73.05164
+        },
+        {
+          "lat": -36.815380000000005,
+          "lng": -73.05206000000001
+        },
+        {
+          "lat": -36.81611,
+          "lng": -73.05379
+        },
+        {
+          "lat": -36.81645,
+          "lng": -73.05459
+        },
+        {
+          "lat": -36.81595,
+          "lng": -73.05498
+        },
+        {
+          "lat": -36.81551,
+          "lng": -73.05526
+        },
+        {
+          "lat": -36.81595,
+          "lng": -73.05498
+        },
+        {
+          "lat": -36.81645,
+          "lng": -73.05459
+        },
+        {
+          "lat": -36.81698,
+          "lng": -73.05587000000001
+        },
+        {
+          "lat": -36.817510000000006,
+          "lng": -73.05712000000001
+        },
+        {
+          "lat": -36.81803,
+          "lng": -73.05836000000001
+        },
+        {
+          "lat": -36.81907,
+          "lng": -73.0609
+        },
+        {
+          "lat": -36.8196,
+          "lng": -73.06214
+        },
+        {
+          "lat": -36.8202,
+          "lng": -73.06359
+        },
+        {
+          "lat": -36.8205,
+          "lng": -73.06429
+        },
+        {
+          "lat": -36.820660000000004,
+          "lng": -73.06449
+        },
+        {
+          "lat": -36.82083,
+          "lng": -73.06461
+        },
+        {
+          "lat": -36.82108,
+          "lng": -73.06474
+        },
+        {
+          "lat": -36.8213,
+          "lng": -73.06481000000001
+        },
+        {
+          "lat": -36.821470000000005,
+          "lng": -73.06484
+        },
+        {
+          "lat": -36.82197,
+          "lng": -73.06482000000001
+        },
+        {
+          "lat": -36.822070000000004,
+          "lng": -73.06478
+        },
+        {
+          "lat": -36.82217,
+          "lng": -73.06472000000001
+        },
+        {
+          "lat": -36.82287,
+          "lng": -73.06427000000001
+        },
+        {
+          "lat": -36.823690000000006,
+          "lng": -73.06372
+        },
+        {
+          "lat": -36.82395,
+          "lng": -73.06359
+        },
+        {
+          "lat": -36.82412,
+          "lng": -73.06352000000001
+        },
+        {
+          "lat": -36.82435,
+          "lng": -73.06345
+        },
+        {
+          "lat": -36.8247,
+          "lng": -73.06341
+        },
+        {
+          "lat": -36.82535,
+          "lng": -73.06339000000001
+        },
+        {
+          "lat": -36.825770000000006,
+          "lng": -73.06338000000001
+        },
+        {
+          "lat": -36.826080000000005,
+          "lng": -73.06332
+        },
+        {
+          "lat": -36.82647,
+          "lng": -73.06318
+        },
+        {
+          "lat": -36.827780000000004,
+          "lng": -73.06237
+        },
+        {
+          "lat": -36.82968,
+          "lng": -73.06117
+        },
+        {
+          "lat": -36.830220000000004,
+          "lng": -73.06078000000001
+        },
+        {
+          "lat": -36.83185,
+          "lng": -73.05973
+        },
+        {
+          "lat": -36.831970000000005,
+          "lng": -73.05963000000001
+        },
+        {
+          "lat": -36.83258,
+          "lng": -73.05896
+        },
+        {
+          "lat": -36.832260000000005,
+          "lng": -73.05813
+        },
+        {
+          "lat": -36.832,
+          "lng": -73.05745
+        },
+        {
+          "lat": -36.83169,
+          "lng": -73.0567
+        }
+      ]
+    }
+  ],
+  "status": "OK",
+  "request": {
+    "origin": {
+      "location": {
+        "lat": -36.81045029633791,
+        "lng": -73.05687747675026
+      }
+    },
+    "destination": {
+      "location": {
+        "lat": -36.832046126053804,
+        "lng": -73.05647237906038
+      }
+    },
+    "waypoints": [
+      {
+        "location": {
+          "location": {
+            "lat": -36.816131189698744,
+            "lng": -73.05158606324808
+          }
+        },
+        "stopover": true
+      },
+      {
+        "location": {
+          "location": {
+            "lat": -36.816131189698744,
+            "lng": -73.05158606324808
+          }
+        },
+        "stopover": true
+      },
+      {
+        "location": {
+          "location": {
+            "lat": -36.81549702238622,
+            "lng": -73.05520580015188
+          }
+        },
+        "stopover": true
+      }
+    ],
+    "travelMode": "DRIVING"
+  }
+}
